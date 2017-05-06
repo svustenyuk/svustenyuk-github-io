@@ -24,4 +24,4 @@ $headers .= "Reply-To: $email_address";
 mail($to,$email_subject,$email_body,$headers);
 return true;         
 ?>
-alert("jfjdjdjd");
+
