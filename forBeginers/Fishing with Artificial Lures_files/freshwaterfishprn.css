@@ -1,0 +1,39 @@
+BODY 
+{ 
+background: white;
+margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+#topmenu,#other, .noprint { display: none; }
+#overmenu, .noprint { display: none; }
+#undermenu, .noprint { display: none; }
+#headline {
+margin-left:15px;
+}
+#mainbody {
+
+margin-right:30px;
+margin-top:15px;
+margin-left:15px;
+
+}
+NEWPG {page-break-after:always}
+H1 {color:black;	font:bold 18pt "Courier New","Times New Roman"}
+H2 {color:black;	font:bold 16pt "Courier New","Times New Roman"}
+
+P {text-indent:10pt;color:black;font:normal 12pt "Courier New","Times New Roman"}
+H3 {color:black;font:bold 14pt "Courier New","Times New Roman"}
+H3.latin {color:black;font:normal 14pt "Courier New","Times New Roman"}
+A:visited {color:black}
+A:link {color:black}
+DT {color:black;font:bold 12pt "Courier New"}
+DD {color:black;font:normal 12pt "Courier New"}
+LI {color:black;font:normal 12pt "Courier New"}
+IMG.right {clear:both;float:right}
+IMG.left {float:left;clear:both}
+IMG.all {clear:left}
+

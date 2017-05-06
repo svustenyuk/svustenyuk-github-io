@@ -1,0 +1,76 @@
+BODY 
+{ 
+background: #f7ffce;
+margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+#overmenu {
+  float:right;
+margin-right: 15px;
+}
+
+#topmenu {
+
+border-style:double;
+  float:right;
+ clear:right;
+margin-left:5px;
+
+}
+
+#undermenu {
+  float:right;
+  clear:right;
+
+margin-right: 15px;
+}
+
+#headline {
+
+margin-left:20px;
+clear:all;
+}
+#mainbody {
+margin-left:20px;
+}
+
+#other {
+
+margin-left: 20px;
+}
+H1 {clear:left;color:green; font:bold 22pt "Courier New","Times New Roman"}
+H2 {clear:left;color:green; font:bold 18pt "Courier New","Times New Roman"}
+H3 {clear:left;color:black;font:bold 14pt "Courier New","Times New Roman"}
+H3.latin {clear:left;color:black;font:normal 16pt "Courier New","Times New Roman"}
+P {text-indent:10pt;color:green;font:bold 12pt "Courier New","Times New Roman"}
+P.footnt {text-indent:10pt;color:black;font:bold 10pt "Courier New","Times New Roman"}
+A:visited {color:olive}
+A:link {color:green}
+A:link.sell {color:#cd5c5c}
+A:visited.sell {color:#cd5c5c}
+A:link.zero{background:none;color:black;font:bold 18pt}
+A:link.toc {color:maroon;font:bold 10pt "Courier New"}
+A:visited.toc {color:olive;font:normal 10pt "Courier New"}
+DT {color:black;font:bold 12pt "Courier New"}
+DD {color:black;font:normal 12pt "Courier New"}
+UL { list-style-type:none; padding:2px; margin:0px;}
+LI{margin-left:5px;color:black;font:normal 12pt "Courier New","Times New Roman"}
+
+
+IMG.right {clear:left;float:right;margin:10px}
+IMG.left {clear:left;float:left;margin:10px}
+IMG.all {clear:left;margin:10px}
+TABLE.sel{ border: 1px solid black}
+
+TH.sel {background:#f0e68c;margin:10px;color:black;font:bold 14pt "Courier New","Times New Roman"}
+
+
+TABLE.sell{background:#ffd700; border: 1px solid black; width:250px;}
+TD.sell {background:#ffd700;padding:10px;color:#cd5c5c;font:bold 12pt "Arial"}
+TH.sell {background:#ffd700;padding:10px;color:#cd5c5c;font:bold 16pt "Arial"}
